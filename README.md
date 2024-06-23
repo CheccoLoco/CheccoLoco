@@ -1,8 +1,5 @@
 ## Hello World!
 
-<!--
-**CheccoLoco/CheccoLoco** is a ✨ _special_ ✨ repository because its `README.md`
-
 - 🔭 I’m currently working on ... YouWine Lab
 - 🌱 I’m currently learning ... Financial & Economic Geography
 - 👯 I’m looking to collaborate on ... Database Management System
@@ -11,4 +8,3 @@
 - 📫 How to reach me: ... francesconoe@checco.xyz
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... Non Binary and Non Linear
--->
