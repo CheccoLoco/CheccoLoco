@@ -7,5 +7,3 @@
 - 💬 Ask me about ... Communication and Project Management
 - 📫 How to reach me: ... francesconoe@checco.xyz
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... Non Binary and Non Linear
-
